@@ -10,6 +10,7 @@ Here I will upload my submitted code on leetcode platform
 | [0196-delete-duplicate-emails](https://github.com/sachin-pancheshwar/LeetCode_Problems/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/sachin-pancheshwar/LeetCode_Problems/tree/master/0577-employee-bonus) |
 | [1801-average-time-of-process-per-machine](https://github.com/sachin-pancheshwar/LeetCode_Problems/tree/master/1801-average-time-of-process-per-machine) |
+| [1827-invalid-tweets](https://github.com/sachin-pancheshwar/LeetCode_Problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sachin-pancheshwar/LeetCode_Problems/tree/master/1908-recyclable-and-low-fat-products) |
 ## Array
 |  |
