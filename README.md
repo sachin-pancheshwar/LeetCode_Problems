@@ -19,8 +19,13 @@ Here I will upload my submitted code on leetcode platform
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/sachin-pancheshwar/LeetCode_Problems/tree/master/0724-find-pivot-index) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/sachin-pancheshwar/LeetCode_Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/sachin-pancheshwar/LeetCode_Problems/tree/master/0724-find-pivot-index) |
+## String
+|  |
+| ------- |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/sachin-pancheshwar/LeetCode_Problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 <!---LeetCode Topics End-->
